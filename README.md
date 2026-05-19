@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет! 👋 Я — Амиршо
 
-<!--
-**amirsho1991/amirsho1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend-разработчик** | Создаю удобные и красивые веб-приложения
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологии и инструменты
+
+- **HTML5** · **CSS3** · **JavaScript (ES6+)**
+- Flexbox, CSS Grid, Адаптивная вёрстка
+- Git & GitHub
+- VS Code
+
+**Изучаю сейчас:** React.js, Tailwind CSS
+
+---
+
+### 📂 Мои проекты
+
+**[Todo App](https://github.com/amirsho1991/todo-app)**  
+Удобное приложение для управления задачами с сохранением в браузере.
+
+→ **[Открыть работающий сайт](https://amirsho1991.github.io/todo-app)**
+
+---
+
+### 🌍 Обо мне
+
+- 📍 Душанбе, Таджикистан
+- Готов к фриланс-задачам на Upwork и Capro
+- Пишу чистый, понятный и современный код
+
+---
+
+**Открыт для новых проектов и сотрудничества!** 🚀
